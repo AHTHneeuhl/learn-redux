@@ -2,4 +2,4 @@
 
 Learn Redux with redux-toolkit!
 
-I coded along with ![learnwithjason.dev]
+I coded along with [learnwithjason.dev](learnwithjason.dev)
